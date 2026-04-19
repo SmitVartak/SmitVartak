@@ -22,5 +22,6 @@ I am a Computer Science student at **Mukesh Patel School of Technology Managemen
 - **Instagram:** [@smit.vartak](https://www.instagram.com/smit.vartak)
 - **Spotify:** [My Playlists](https://open.spotify.com/user/foissmit)
 - **GitHub:** [SmitVartak](https://github.com/SmitVartak)
-   39
-   40 *"Gonna get into Cybersecurity"*
+
+
+**im GOING to get into CYBERSECURITY**
