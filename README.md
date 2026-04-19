@@ -45,8 +45,10 @@ I am a Computer Science student at **MPSTME**, NMIMS Mumbai, specializing in **C
 
 - **Education:** B.Tech in Computer Science (Cybersecurity), NMIMS MPSTME
 - **Location:** Mumbai, India
+- **Email:** smitvartak1138@gmail.com
 - **Spotify:** [@Smitty](https://open.spotify.com/user/foissmit)
-
+- **Instagram:** [@smit.vartak](https://www.instagram.com/smit.vartak)
+- 
 ---
 
 ## *I WILL get into Cybersecurity for SURE haha*
