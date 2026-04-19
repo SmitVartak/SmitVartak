@@ -10,19 +10,24 @@ I am a Computer Science student at **Mukesh Patel School of Technology Managemen
 - **Tools & Security:** WSL2, Linux Environment, Git, OSINT Frameworks, IDA, Autopsy.
 - 67% of my body is video games ^_^
 
-### GitHub Stats
-   
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SmitVartak&show_icons=true&theme=radical&hide_border=true" alt="Smit Vartak's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitVartak&layout=compact&theme=radical&hide_border=true" alt="Smit Vartak's Top Languages" /></p>
+### Ongoing Learning & Exploration
 
-### Some stuff about me
+I'm currently expanding my technical depth in the following areas:
+
+- **Systems & Architecture:** Deep diving into **Operating Systems** and **C and C++** and about to get into assembly for low-level understanding.
+- **Infrastructure:** Mastering **Networks** and **Containers** (Docker) for secure deployments.
+- **Security Research:** Slowly advancing in **Cryptography**, **Malware Analysis**, and specialized **Linux security tools**.
+- **Core Skills:** Improving **Typing speed** and precision for more efficient terminal-based workflows.
+### GitHub Stats
+   https://open.spotify.com/user/foissmit
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SmitVartak&show_icons=true&theme=radical&hide_border=
+true" alt="Smit Vartak's Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitVartak&layout=compact&theme=radical&hide_border=true" alt="Smit Vartak's Top Languages" /></p>
+### Connect with me
 
 - **Education:** B.Tech in Computer Science (Cybersecurity), NMIMS MPSTME
 - **Location:** Mumbai, India
 - **Instagram:** [@smit.vartak](https://www.instagram.com/smit.vartak)
 - **Spotify:** [My Playlists](https://open.spotify.com/user/foissmit)
-- **GitHub:** [SmitVartak](https://github.com/SmitVartak)
 
-
-**im GOING to get into CYBERSECURITY**
+*I WILL get into Cybersecurity for SURE haha*
