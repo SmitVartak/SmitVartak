@@ -19,10 +19,10 @@ I'm currently expanding my technical depth in the following areas:
 - **Security Research:** Slowly advancing in **Cryptography**, **Malware Analysis**, and specialized **Linux security tools**.
 - **Core Skills:** Improving **Typing speed** and precision for more efficient terminal-based workflows.
 ### GitHub Stats
-   https://open.spotify.com/user/foissmit
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SmitVartak&show_icons=true&theme=radical&hide_border=
 true" alt="Smit Vartak's Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitVartak&layout=compact&theme=radical&hide_border=true" alt="Smit Vartak's Top Languages" /></p>
+
 ### Connect with me
 
 - **Education:** B.Tech in Computer Science (Cybersecurity), NMIMS MPSTME
