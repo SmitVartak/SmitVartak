@@ -8,7 +8,7 @@ I am a Computer Science student at **MPSTME**, NMIMS Mumbai, specializing in **C
 - **Web Frameworks:** React, Node.js
 - **Tools & Security:** WSL2, Linux Environment, Git, OSINT Frameworks, IDA, Autopsy.
 - 67% of my body is Art (Traditional / Digital) and video games ^_^
-### Ongoing Learning & Exploration
+### Ongoing Learning
 - **Systems & Architecture:** Deep diving into **Operating Systems** and **C and C++** and about to get into assembly for low-level understanding.
 - **Infrastructure:** Planning to learn **Networks** and **Containers** (Docker).
 - **Security Research:** Slowly advancing in **Cryptography**, **Malware Analysis**.
