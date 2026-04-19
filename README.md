@@ -1,8 +1,7 @@
 # Smit Vartak 
----
+
 I am a Computer Science student at **MPSTME**, NMIMS Mumbai, specializing in **Cybersecurity**. As a cybersecurity enthusiast, I'm focused on taking small, consistent steps and learning something new everyday. My goal is to build a solid foundation in digital defense and secure development.
 
----
 ### Interests
 - **Cybersecurity & Cryptography:** Developing and solving CTF challenges with a focus on RSA math, digital forensics, and OSINT.
 - **Languages:** Python, C, JavaScript, MATLAB
