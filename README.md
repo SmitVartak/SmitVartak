@@ -38,4 +38,4 @@ I'm currently expanding my technical depth in the following areas:
 
 ---
 
-*I WILL get into Cybersecurity for SURE haha*
+## *I WILL get into Cybersecurity for SURE haha*
