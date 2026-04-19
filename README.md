@@ -12,13 +12,9 @@ I am a Computer Science student at **Mukesh Patel School of Technology Managemen
 ### GitHub Stats
    
 <p align="center">
-<img
-src="https://github-readme-stats.vercel.app/api?username=SmitVartak&show_icons=true&theme=radical&hide_border=
-true" alt="Smit Vartak's Stats" />
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitVartak&layout=compact&theme=radical&hi
-de_border=true" alt="Smit Vartak's Top Languages" />
-30 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=SmitVartak&show_icons=true&theme=radical&hide_border=true" alt="Smit Vartak's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitVartak&layout=compact&theme=radical&hide_border=true" alt="Smit Vartak's Top Languages" /></p>
+
 ### Connect with me
 
 - **Education:** B.Tech in Computer Science (Cybersecurity), NMIMS MPSTME
