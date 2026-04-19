@@ -20,10 +20,12 @@ I am a Computer Science student at **Mukesh Patel School of Technology Managemen
 <img src="https://github-readme-stats.vercel.app/api?username=SmitVartak&show_icons=true&theme=radical&hide_border=true" alt="Smit Vartak's Stats" />                          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitVartak&layout=compact&theme=radical&hide_border=true" alt="Smit Vartak's Top Languages" /></p>
 ---
 ### Connect with me
+
 - **Education:** B.Tech in Computer Science (Cybersecurity), NMIMS MPSTME
 - **Location:** Mumbai, India
 - **Instagram:** [@smit.vartak](https://www.instagram.com/smit.vartak)
 - **Spotify:** [My Playlists](https://open.spotify.com/user/foissmit)
+
 ---
 
 ## *I WILL get into Cybersecurity for SURE haha*
