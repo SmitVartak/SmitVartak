@@ -33,9 +33,11 @@ I am a Computer Science student at **MPSTME**, NMIMS Mumbai, specializing in **C
   <img src="https://img.shields.io/badge/WSL2-%230078D4.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
 ### GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SmitVartak&show_icons=true&theme=radical&hide_border=true" alt="Smit Vartak's Stats" />                          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitVartak&layout=compact&theme=radical&hide_border=true" alt="Smit Vartak's Top Languages" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=SmitVartak&show_icons=true&theme=radical&hide_border=true" alt="Smit Vartak's Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitVartak&layout=compact&theme=radical&hide_border=true" alt="Smit Vartak's Top Languages" /></p>
+
 ### Connect with me
 - **Education:** B.Tech in Computer Science (Cybersecurity), NMIMS MPSTME
 - **Location:** Mumbai, India
