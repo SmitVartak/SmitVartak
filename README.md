@@ -20,7 +20,7 @@ I'm currently expanding my technical depth in the following areas:
 - **Core Skills:** Improving **Typing speed** and precision for more efficient terminal-based workflows.
 ### GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SmitVartak&show_icons=true&theme=radical&hide_border=true" alt="Smit Vartak's Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitVartak&layout=compact&theme=radical&hide_border=true" alt="Smit Vartak's Top Languages" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=SmitVartak&show_icons=true&theme=radical&hide_border=true" alt="Smit Vartak's Stats" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitVartak&layout=compact&theme=radical&hide_border=true" alt="Smit Vartak's Top Languages" /></p>
 
 ### Connect with me
 
