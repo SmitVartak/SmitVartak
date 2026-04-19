@@ -22,10 +22,12 @@ I am a Computer Science student at **MPSTME**, NMIMS Mumbai, specializing in **C
 ---
 
 ### Connect with me
-
+<p align="left">  
+<a href="https://linkedin.com/in/smit-v-558a57251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smit v" height="30" width="40" /></a>  
+<a href="https://instagram.com/smittvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smittvv" height="30" width="40" /></a>  
+</p>  
 - **Education:** B.Tech in Computer Science (Cybersecurity), NMIMS MPSTME
 - **Location:** Mumbai, India
-- **Instagram:** [@smit.vartak](https://www.instagram.com/smit.vartak)
 - **Spotify:** [@Smitty](https://open.spotify.com/user/foissmit)
 
 ---
