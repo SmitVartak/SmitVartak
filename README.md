@@ -11,11 +11,9 @@ I am a Computer Science student at **MPSTME**, NMIMS Mumbai, specializing in **C
 - 67% of my body is Art (Traditional / Digital) and video games ^_^
 ### Ongoing Learning & Exploration
 - **Systems & Architecture:** Deep diving into **Operating Systems** and **C and C++** and about to get into assembly for low-level understanding.
-- **Infrastructure:** Mastering **Networks** and **Containers** (Docker) for secure deployments.
-- **Security Research:** Slowly advancing in **Cryptography**, **Malware Analysis**, and specialized **Linux security tools**.
-- Improving Typing speed and precision for more efficient terminal-based workflows.
-
-### 🛠️ Technical Stack & Tools
+- **Infrastructure:** Planning to learn **Networks** and **Containers** (Docker).
+- **Security Research:** Slowly advancing in **Cryptography**, **Malware Analysis**.
+- Improving Typing speed for efficient workflows.
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
